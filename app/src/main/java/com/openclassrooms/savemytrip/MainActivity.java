@@ -12,6 +12,7 @@ import com.openclassrooms.savemytrip.tripbook.TripBookActivity;
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
 
+    // Partie commentée
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
